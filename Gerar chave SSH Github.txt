@@ -1,0 +1,4 @@
+Comandos no Git Bash:
+- ssh-keygen -t ed..... -c email@.......[ENTER]
+cat ->(mostra conteudo criado)
+pwd ->(mostra o caminho da pasta)
